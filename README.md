@@ -9,7 +9,7 @@ I defended my thesis on "Application of Reinforcement Learning in Agent-Based Mo
 
 I enjoy mastering new technologies. Currently exploring opportunities in the IT field.
 
-* 🌍 Living in the Republic of Bashkortostan
+* 🌍 Living in the Republic of Bashkortostan, Russia
 * ✉️ Contact me on [Telegram](https://t.me/LastPeek)
 * 🧠 Currently pursuing my first year of Master's studies
 
