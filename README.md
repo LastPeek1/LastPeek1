@@ -1,19 +1,19 @@
-Привет, меня зовут Максим  👋 
+Hi, I'm Max 👋 
 ======================
 
-Я начинающий IT разработчик.
+I'm an aspiring IT developer.
 --------------------------
 
-Мне 21 год. В 2025 году я получил диплом Уфимского университета научки и технологий по направлению "Искусственный интеллект и машинное обучение в создании цифровых двойников". 
-Защитил дипломную работу по теме "Применения обучения с подкреплением в агентно-ориентированном моделировании движения людей при эвакуации из здания" на отлично. В работе использовала ML-Agents и Unity.
+I'm 21 years old. In 2025, I graduated from Ufa University of Science and Technology with a degree in "Artificial Intelligence and Machine Learning for Digital Twins". 
+I defended my thesis on "Application of Reinforcement Learning in Agent-Based Modeling of Human Evacuation from Buildings" with honors.
 
-Люблю осваивать новые технологии. Ищу себя в области IT.
+I enjoy mastering new technologies. Currently exploring opportunities in the IT field.
 
-* 🌍 Живу в Республике Башкортостан
-* ✉️ Со мной можно связаться в [TG](https://t.me/LastPeek)
-* 🧠 Учусь на первом курсе магистратуры
+* 🌍 Living in the Republic of Bashkortostan
+* ✉️ Contact me on [Telegram](https://t.me/LastPeek)
+* 🧠 Currently pursuing my first year of Master's studies
 
-### Навыки
+### Skills
 
 
 <p align="left">
